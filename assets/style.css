@@ -1,0 +1,71 @@
+body{
+    background-color: #2d3236;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+h1{
+    text-align: center;
+    color: #61892f;
+    padding: 30px;
+    font-size: 40px;
+}
+
+#rules{
+    border: 5px solid #86c323;
+    border-radius: 10px;
+    text-align: center;
+    padding: 40px 40px;
+    color: white;
+    margin: 10px 30px;
+}
+
+#crystal1 {
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+}
+#crystal2 {
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+}
+#crystal3 {
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+}
+#crystal4 {
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+}
+.pictures {
+  padding: 10px 10px;
+  text-align: center;
+  
+}
+
+#scoretext{
+    border: 5px solid #86c323;
+    border-radius: 10px;
+    padding: 20px 20px;
+    width: 250px;
+    color: #6b6e70;
+    float: left;
+    margin: 10px 30px;
+   
+}
+
+#userscore{
+    border: 5px solid #86c323;
+    border-radius: 10px;
+    padding: 20px 20px;
+    width: 250px;
+    color: #6b6e70;
+    float: left;
+    margin: 10px 30px;
+}
+
+
+
