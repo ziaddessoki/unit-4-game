@@ -20,6 +20,18 @@ h1{
     margin: 10px 30px;
 }
 
+#winsandlosses, #randomnum{
+    text-align: center;
+    border: 5px solid #86c323;
+    border-radius: 10px;
+    padding: 20px 20px;
+    width: 250px;
+    color: #aaafb4;
+    margin: 10px auto;
+    
+}
+
+
 #crystal1 {
     width: 150px;
     height: 150px;
@@ -51,9 +63,9 @@ h1{
     border-radius: 10px;
     padding: 20px 20px;
     width: 250px;
-    color: #6b6e70;
-    float: left;
-    margin: 10px 30px;
+    color: #aaafb4;
+    text-align: center;
+    margin: 10px auto;
    
 }
 
