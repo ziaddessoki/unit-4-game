@@ -1,7 +1,12 @@
 body{
     background-color: #2d3236;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Turret Road', cursive;
     
+}
+
+.button{
+    margin: 30px auto;
+    text-align: center;
 }
 
 h1{
@@ -10,6 +15,20 @@ h1{
     padding: 30px;
     font-size: 40px;
 }
+
+
+
+a{
+    border: 5px solid #86c323;
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px 40px;
+    color: white;
+    background-color: #86c323;
+    text-decoration: none;    
+    }
+
+
 
 #rules{
     border: 5px solid #86c323;
